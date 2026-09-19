@@ -1,6 +1,19 @@
 ## Date: 19-09-2026
 
 **Today's Work:**
+- Created feature/session_1 branch from develop.
+- Solved 5 assignment problems for Session 1 (Week 1 Assignment - arrays, strings, basic logic).
+
+**Next Session Plan:**
+- Continue with subsequent sessions.
+
+**Issues Faced:**
+- None
+
+---
+## Date: 19-09-2026
+
+**Today's Work:**
 - Created feature/session_5 branch from develop.
 - Solved 5 assignment problems for Session 5 (Fantasy League - arrays, 2D arrays, overloading).
 
