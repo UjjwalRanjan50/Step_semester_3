@@ -1,6 +1,19 @@
 ## Date: 19-09-2026
 
 **Today's Work:**
+- Created feature/session_5 branch from develop.
+- Solved 5 assignment problems for Session 5 (Fantasy League - arrays, 2D arrays, overloading).
+
+**Next Session Plan:**
+- Work on Session 6 problems.
+
+**Issues Faced:**
+- None
+
+---
+## Date: 19-09-2026
+
+**Today's Work:**
 - Created feature/session_4 branch from develop.
 - Solved 5 assignment problems for Session 4 (Category C - arrays, loops, conditionals).
 
