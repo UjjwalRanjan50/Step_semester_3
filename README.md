@@ -1,3 +1,16 @@
+## Date: 26-09-2026
+
+**Today's Work:**
+- Created feature/session_8 branch from develop.
+- Solved 5 assignment problems for Session 8 (Polymorphism & Abstraction).
+
+**Next Session Plan:**
+- Continue with subsequent sessions.
+
+**Issues Faced:**
+- None
+
+---
 ## Date: 19-09-2026
 
 **Today's Work:**
