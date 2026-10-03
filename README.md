@@ -1,3 +1,16 @@
+## Date: 03-10-2026
+
+**Today's Work:**
+- Created feature/session_9 branch from develop.
+- Solved 5 assignment problems for Session 9 (Abstraction & Interfaces).
+
+**Next Session Plan:**
+- Continue with subsequent sessions.
+
+**Issues Faced:**
+- None
+
+---
 ## Date: 26-09-2026
 
 **Today's Work:**
