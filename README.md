@@ -1,3 +1,16 @@
+## Date: 12-11-2026
+
+**Today's Work:**
+- Created feature/session_11 branch from develop.
+- Solved 5 assignment problems for Session 11 (Sorting Algorithms - Bubble Sort, Selection Sort, Insertion Sort, Queue Order Check, Counting Sort).
+
+**Next Session Plan:**
+- Continue with subsequent sessions.
+
+**Issues Faced:**
+- None
+
+---
 ## Date: 14-10-2026
 
 **Today's Work:**
